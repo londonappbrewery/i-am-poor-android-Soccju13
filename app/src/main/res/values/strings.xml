@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">I Am poor</string>
+    <string name="app_name">I am poor</string>
+    <string name="copy">code by juan</string>
+
+    <string name="i2_tittle">CREAR USUARIO</string>
+    <string name="i2_nombre">Ingresar nombres completos</string>
+    <string name="i2_apellidos">Ingresar apellidos completos</string>
+    <string name="i2_crear_usuario">Usuario</string>
+    <string name="i2_crear_contraseña">Contraseña</string>
+    <string name="i2_btn_crear_usuario">CREAR USUARIO</string>
+
+    <string name="i3_tittle">LOGIN</string>
+    <string name="i3_usuario">Ingresar nombre de usuario: </string>
+    <string name="i3_contraseña">Ingresar su contraseña: </string>
+    <string name="i3_btn_login">Ingresar</string>
+    <string name="btn_i2_usuario">Registrar usuario</string>
 </resources>
