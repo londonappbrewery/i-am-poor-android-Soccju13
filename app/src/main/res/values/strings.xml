@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">I am poor</string>
-    <string name="copy">code by juan</string>
 
     <string name="i2_tittle">CREAR USUARIO</string>
     <string name="i2_nombre">Ingresar nombres completos</string>
@@ -14,4 +13,5 @@
     <string name="i3_contraseña">Ingresar su contraseña: </string>
     <string name="i3_btn_login">Ingresar</string>
     <string name="btn_i2_usuario">Registrar usuario</string>
+    <string name="btn_i1_comenzar">Comencemos!</string>
 </resources>
